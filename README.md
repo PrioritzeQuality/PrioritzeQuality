@@ -2,7 +2,7 @@
 <h3 align="center">ISTQB Certified Experienced Test Engineer skilled in Selenium, Java, JIRA, OOPs, GIT, Manual Testing, Agile, and more. Passionate about ensuring software quality and delivering excellence. Let's connect!</h3>
 
 - 🌱 I’m currently learning **Framework Creation from Scratch For Automation Testing**
-- 📄 3 Years Professional Industry Experience <a href="https://drive.google.com/file/d/11BYhAelOIsrjNOFI0m3Pv0g6kmQJ2jdw/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link</a>
+- 📄 4 Years Professional Industry Experience <a href="https://drive.google.com/file/d/11BYhAelOIsrjNOFI0m3Pv0g6kmQJ2jdw/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link</a>
 
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/akashmalik2/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or **"akashmalik463@gmail.com"** or **+91 9027407001**
 <!DOCTYPE html>
